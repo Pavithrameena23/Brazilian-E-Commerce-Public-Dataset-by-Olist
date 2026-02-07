@@ -1,0 +1,11 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/gitIntegration/platformProperties/2.0.0/schema.json",
+  "metadata": {
+    "type": "SemanticModel",
+    "displayName": "Brazillian E-Commerce"
+  },
+  "config": {
+    "version": "2.0",
+    "logicalId": "b8fcc41d-178c-4ded-8a90-90d925542df4"
+  }
+}
